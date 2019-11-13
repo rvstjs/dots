@@ -6,7 +6,7 @@
     </p>
 </div>
 <div id="about">
-	<img src="screenshot.png" class="center"alt="simple-dark-screenshot"/>
+	<img src="screenshot.png" class="center" alt="simple-dark-screenshot"/>
 	<h3>About</h3>
 	<p>Just the dotfiles I use. Use them as you wish. 
 	</p>
