@@ -7,8 +7,7 @@
 </div>
 <div id="about">     
 <h3>About</h3>				
-<p>Just the dotfiles I use. Use them as you wish.
-	       
+<p>Just the dotfiles I use. Use them as you wish.	       
 </p>		       
 <div id="usage">
 <h3>Usage</h3>
