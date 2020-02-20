@@ -5,11 +5,6 @@
       <span font-size="12px">Made by <a href="https://robertstojs.com">Robert</a> with love.</span><br><br>
     </p>
 </div>
-<div id="image">
-<p align="center">
-	<img src="screenshot.png" class="center" alt="simple-dark-screenshot>
-</p>
-</div>
 <div id="about">     
 <h3>About</h3>				
 <p>Just the dotfiles I use. Use them as you wish.
